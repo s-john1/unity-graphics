@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.022200806, g: 0.0047596227, b: 0.000237476, a: 1}
+  m_IndirectSpecularColor: {r: 0.022201033, g: 0.0047596847, b: 0.0002374821, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5808,15 +5808,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6587985000845524045, guid: 8f34423e2232ebd428ea96dfa87fed53, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 931
+      value: 423
       objectReference: {fileID: 0}
     - target: {fileID: 6587985000845524045, guid: 8f34423e2232ebd428ea96dfa87fed53, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4921
+      value: 634
       objectReference: {fileID: 0}
     - target: {fileID: 6587985000845524045, guid: 8f34423e2232ebd428ea96dfa87fed53, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -412700
+      value: -40
       objectReference: {fileID: 0}
     - target: {fileID: 6587985000845524045, guid: 8f34423e2232ebd428ea96dfa87fed53, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5849,10 +5849,6 @@ PrefabInstance:
     - target: {fileID: 6778694482648230589, guid: 8f34423e2232ebd428ea96dfa87fed53, type: 3}
       propertyPath: m_Name
       value: Shooting star
-      objectReference: {fileID: 0}
-    - target: {fileID: 7507717866606078502, guid: 8f34423e2232ebd428ea96dfa87fed53, type: 3}
-      propertyPath: SubModule.enabled
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
