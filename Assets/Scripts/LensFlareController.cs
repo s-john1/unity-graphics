@@ -17,7 +17,6 @@ public class LensFlareController : MonoBehaviour
     void Update()
     {
         // Enable lens flare when the sun is sufficiently high in the sky
-        Debug.Log(transform.rotation.x);
         if(transform.rotation.eulerAngles.x < 145 && transform.rotation.eulerAngles.x > 35)
         {
             cam.GetComponent<FlareLayer>().enabled = true;
